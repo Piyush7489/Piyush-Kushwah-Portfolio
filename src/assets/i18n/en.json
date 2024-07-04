@@ -1,0 +1,164 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "CV_Piyush_Kushwah.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "With <span class='underline'>1.5 years of experience</span>, I have developed systems, interfaces, bots, and technological solutions to enhance the web. My focus is on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Java</span>,<span class='underline'>Spring Boot</span>, <span class='underline'>Angular</span> and <span class='underline'>MicroService</span> I am dedicated to applying best practices and development standards to deliver high-quality solutions.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "I am Piyush Kushwah, with <span class='underline'>1.5 years of hands-on experience</span> in <span class='underline'>Java</span>, <span class='underline'>Spring Boot</span>, <span class='underline'>Angular</span>, <span class='underline'>TypeScript</span>, and <span class='underline'>MySQL</span>. In this time, I have taken on roles as a Backend Developer, Frontend Developer, and have contributed to various projects.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        
+        {
+            "Tab": "Dollop ",
+            "Title": "Fullstack developer",
+            "Date": "March 2023 - Present",
+            "Description": [
+                "Developed and maintained web applications using Java,Spring Boot ensuring robust backend functionality.",
+                "Collaborated with front-end to integrate RESTful APIs with Angular, enhancing the user experience.",
+                "Utilized MySQL for efficient data storage and retrieval, optimizing database queries for better performance.",
+                "Implemented best practices for code quality and maintainability, including unit testing and code reviews.",
+                " Worked closely with cross-functional teams, participating in agile methodologies to deliver high-quality software solutions.",
+                " Identified and resolved issues in both development and production environments, ensuring smooth and reliable application performance."
+            ]
+      }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+        "Title": "Smart Tracko (CICO)",
+        "Description": "Built for a coaching institute, Smart Tracko aims to enhance various aspects of institute management, including Tracking <span class='underline'>student attendance</span>, <span class='underline'>Managing courses details</span> and <span class='underline'>purchases</span>, <span class='underline'>Facilitating quizzes</span>, <span class='underline'>assignments</span>, and <span class='underline'>notes</span>.",
+        "imgs": [
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+        ],
+        "Technologies": ["Java", "Spring Boot", "Angular", "Angular Material", "MySQL"]
+        },
+        
+        {
+          "Title": "Dollopian Foodies (Food Delivery Web Application)",
+          "Description": "The Food Ordering System is a comprehensive platform designed to streamline every facet of Food operations.Developed the project using <span class='underline'>Angular</span>, <span class='underline'>Spring Boot</span>, and <span class='underline'>MySQL</span>, ensuring a reliable and efficient system.",
+          "imgs": [
+              "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+              "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+              "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+          ],
+          "Technologies": ["Java", "Spring Boot", "Angular", "Angular Material", "MySQL"]
+        },
+        
+        {
+          "Title": "Exam Portal",
+          "Description": "Designed to facilitate exams, track progress, and maintain detailed progress records, enhancing the efficiency of test-taking and performance monitoring. Developed Exam Portal with <span class='underline'>Angular</span>, <span class='underline'>Spring Boot</span>, and <span class='underline'>MySQL</span>. Engineered responsive UI features and separate student/admin dashboards",
+          "imgs": [
+              "assets/images/agrourbana/agrourbana1.png",
+              "assets/images/agrourbana/agrourbana2.png",
+              "assets/images/agrourbana/agrourbana3.png",
+              "assets/images/agrourbana/agrourbana4.png",
+              "assets/images/agrourbana/agrourbana5.png"
+          ],
+          "Technologies": ["Java", "Spring Boot", "Angular", "Angular Material", "MySQL"]
+        },
+        {
+            "Title": "FluxChat (Chat Box)",
+            "Description": "Developed the project using  <span class='underline'>Angular</span>, <span class='underline'>Spring Boot</span>, and <span class='underline'>MySQL</span>, ensuring a reliable and efficient system. Implemented real-time communication features by leveraging <span class='underline'>Stomp.js</span> and the <span class='underline'>WebSocket Protocol</span>, enhancing the project's responsiveness and enabling seamless bidirectional data exchange between clients and servers. Successfully implemented real-time features, significantly improving user engagement and overall user experience.",
+            "imgs": [
+                "assets/images/tusuperplan/tusuperplan1.png",
+                "assets/images/tusuperplan/tusuperplan2.png",
+                "assets/images/tusuperplan/tusuperplan3.png",
+                "assets/images/tusuperplan/tusuperplan4.png",
+                "assets/images/tusuperplan/tusuperplan5.png"
+            ],
+            "Technologies": ["Java", "Spring Boot", "Angular", "Angular Material", "MySQL"]
+        },
+        {
+            "Title": "ContactMaster",
+            "Description": "Developed a Phonebook Management System with multi-role interface for admins and users using <span class='underline'>Java Servlets</span> and <span class='underline'>JSP</span>. Employed <span class='underline'>MVC architecture</span>, <span class='underline'>MySQL</span> database, and <span class='underline'>JSTL</span> for efficient data handling and dynamic page rendering. Implemented robust <span class='underline'>session management</span>, <span class='underline'>secure access control</span>, and comprehensive <span class='underline'>CRUD operations</span> for users, contacts, and groups.",
+            "imgs": [
+                "assets/images/proyex/proyex1.png",
+                "assets/images/proyex/proyex2.png",
+                "assets/images/proyex/proyex3.png",
+                "assets/images/proyex/proyex4.png",
+                "assets/images/proyex/proyex5.png",
+                "assets/images/proyex/proyex6.png",
+                "assets/images/proyex/proyex7.png",
+                "assets/images/proyex/proyex8.png",
+                "assets/images/proyex/proyex9.png",
+                "assets/images/proyex/proyex10.png",
+                "assets/images/proyex/proyex11.png",
+                "assets/images/proyex/proyex12.png"
+            ],
+            "Technologies": ["Java", "Servlets", "JSP", "MySQL", "JSTL"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Pokemon",
+            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+            "Technologies": ["Angular", "SASS", "CSS GRID"]
+        },
+        {
+            "Title": "Social proof section",
+            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+            "ghLink": "https://github.com/andresjosehr/social-proof-section",
+            "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+            "Technologies": ["Angular", "CSS GRID", "GIT"]
+        },
+        {
+            "Title": "FAQ accordion card",
+            "Description": "FAQ accordion with logic and animations made in Angular.",
+            "ghLink": "https://github.com/andresjosehr/faq-accordion",
+            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+            "ghLink": "https://github.com/andresjosehr/profile-card-component",
+            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+            "Technologies": ["Angular", "SASS", "GIT"]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I'm always excited to connect with fellow professionals, potential collaborators, and anyone who is passionate about technology and innovation. Whether you have a question, a project idea, or just want to say hello, feel free to reach out.",
+    "Contact.Btn": "Say Hello"
+
+
+}
